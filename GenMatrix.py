@@ -1,6 +1,6 @@
 """
 Matrix Generation for HPSC
-John Dougherty
+Professor John Dougherty
 Haverford College
 
 
