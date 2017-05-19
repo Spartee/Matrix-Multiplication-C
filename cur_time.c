@@ -2,7 +2,7 @@
 #include <sys/time.h>
 
 
-double cur_time(void)  /* From Dave or one of Dave's students */
+double cur_time(void)  
 {
         struct timeval tv;
         /* struct timezone tz; */
