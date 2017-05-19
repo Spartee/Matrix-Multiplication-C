@@ -1,0 +1,1 @@
+double cur_time();
